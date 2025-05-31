@@ -149,7 +149,7 @@ const produtos = {
       id: 18,
       nome: "Controle Aiwa",
       descricao: "Todos os modelos comuns - compatibilidade universal",
-      preco: 10.0,
+      preco: 23.0,
       imagem: "img/produto18.png",
     },
   ],
