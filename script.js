@@ -13,7 +13,7 @@ const produtos = {
       nome: "Fonte Peining",
       descricao: "Fonte turbo, mais potência e segurança",
       preco: 35.0,
-      imagem: "lojavirtual-danorte/img/produto2.png",
+      imagem: "img/produto2.png",
     },
     {
       id: 3,
